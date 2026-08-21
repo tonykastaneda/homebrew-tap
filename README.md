@@ -2,10 +2,10 @@
 
 Homebrew formulas for projects by Tony Kastaneda.
 
-## code-chats
+## yakkity
 
 ```zsh
-brew install tonykastaneda/tap/code-chats
+brew install tonykastaneda/tap/yakkity
 ```
 
-This installs the `chat` command.
+This installs the `yakk` command.
